@@ -49,5 +49,5 @@ The dataset includes:
 ## 🛠️ Installation & Usage
 Clone this repository:
 ```bash
-git clone https://github.com/yourusername/wheat-price-prediction.git
+git clone https://github.com/rachit0501/wheat-price-prediction.git
 cd wheat-price-prediction
